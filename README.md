@@ -1,0 +1,2 @@
+# ketchup
+Ketchup graphics library.
